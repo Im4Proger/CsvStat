@@ -1,8 +1,9 @@
 # PHP-class for calculating column and row statistics for the csv file
 
 PHP-class for calculating column and row statistics for the csv file
-Requirements:
-- PHP 8`
+
+## Requirements:
+- PHP 8
 
 
 ## Installation
